@@ -8,4 +8,5 @@ docker/**/Dockerfile
 **/*docker-compose*
 **/node_modules
 .eslintcache
+.git
 
